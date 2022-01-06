@@ -10,7 +10,7 @@ def max_subarray(arr: list):
     i, j = None, None
     if len(arr) == 0:
         return i, j, 0
-
+w
     sub_sum = 0
     sub_i = 0
     max_sum = -1
